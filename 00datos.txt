@@ -1,4 +1,0 @@
-u016 = dbd0d855
-Javier Velázquez Martínez
-Ángel Domínguez Fernández
-Mejoras realizadas: varias imágenes, ver respuesta correcta, filtrar acertados, puntuación persistente, actualizar favoritos
